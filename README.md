@@ -1,10 +1,13 @@
-📌 AI-Based Question Generation System using NLP
-📖 Project Description
+# 📌 AI-Based Question Generation System using NLP
+
+## 📖 Project Description
+
 This project presents an AI-based Question Generation System that automatically generates meaningful questions from a given text using Natural Language Processing (NLP) techniques.
 
 The system is capable of analyzing input text and generating different types of questions, making it useful for education, exams, and self-learning platforms.
 
-🎯 Key Features
+### 🎯 Key Features
+
 ✅ Generate Fill in the Blank Questions
 
 ✅ Generate WH Questions (Who, What, When, Where, Why, How)
@@ -122,6 +125,7 @@ Trained model files
 
 GUI application code
 
-👩‍💻 Author
-Tanvi Ritesh Parakh
+### 👩‍💻 Authors
+1.Tanvi Parakh
+2.Siddhi Totala
 
